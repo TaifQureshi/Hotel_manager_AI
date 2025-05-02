@@ -2,3 +2,4 @@
 /AIAgent
 *.log
 /__pycache__
+.env

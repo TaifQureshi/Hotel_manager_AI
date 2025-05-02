@@ -1,0 +1,4 @@
+# venv
+/AIAgent
+*.log
+/__pycache__

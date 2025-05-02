@@ -18,7 +18,7 @@ This project is a launch-tool-based AI agent designed to automate the room booki
 
 ### SQL Query
 
-`
+```sql
 CREATE TABLE Rooms (
     room_id INT PRIMARY KEY,          -- Unique identifier for each room
     room_number VARCHAR(10) NOT NULL, -- Room number
@@ -54,4 +54,4 @@ VALUES
     (108, '108', 'Double', 2, 3100.00, TRUE),
     (109, '109', 'Suite', 4, 4900.00, TRUE),
     (110, '110', 'Single', 1, 2300.00, TRUE);
-`
+```
